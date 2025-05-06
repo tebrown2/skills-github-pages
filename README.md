@@ -7,9 +7,9 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# GitHub Pages
+# Tess Brown's GitHub Page
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+ Welcome to Tess Brown's GitHub page, sponsored by GitHub.
 
 </header>
 
