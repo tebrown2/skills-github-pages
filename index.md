@@ -1,4 +1,4 @@
 ---
-title: Welcome to **Tess Brown's** blog
+Title: Welcome to Tess Brown's blog!
 ---
 
